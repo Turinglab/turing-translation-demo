@@ -1,6 +1,6 @@
 ---
-title: Gründung unserer Farm
-description: Erstellen Sie einfache Algorithmen mit Funktionsaufrufen, die Zeichenketten als Argumente zur Steuerung eines landwirtschaftlichen Roboters benötigen. Üben Sie rechnerisches Denken anhand verschiedener Beispiele.
+Titel: Gründung unserer Farm
+Beschreibung: Erstellen Sie einfache Algorithmen mit Funktionsaufrufen, die Zeichenketten als Argumente zur Steuerung eines landwirtschaftlichen Roboters benötigen. Üben Sie rechnerisches Denken anhand verschiedener Beispiele.
 ---
 
 # Vorbereitung
