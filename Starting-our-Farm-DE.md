@@ -164,9 +164,9 @@ plant("tomato")
 # Was ist eine Funktion?
 
 - [x] Eine Funktion ist ein Befehl, der eine bestimmte Aktion ausführt, wenn er aufgerufen wird.
-- [] Funktionen sind Befehle, mit denen Sie Ihren Code von einer Sprache in eine andere konvertieren können
-- [] Funktionen sind Wörter, hinter denen immer Klammern stehen
-- [] Funktionen sind Befehle, die von Anführungszeichen umgeben sind und zwischen Klammern gesetzt werden können
+- [ ] Funktionen sind Befehle, mit denen Sie Ihren Code von einer Sprache in eine andere konvertieren können
+- [ ] Funktionen sind Wörter, hinter denen immer Klammern stehen
+- [ ] Funktionen sind Befehle, die von Anführungszeichen umgeben sind und zwischen Klammern gesetzt werden können
 
 ## ---Tags---
 
@@ -229,9 +229,9 @@ Du hast in Python geschrieben, um den Farmbot zu programmieren. Im letzten Beisp
 # Was ist ein Algorithmus?
 
 - [x] Ein Algorithmus ist eine Reihe von Befehlen, die zur Ausführung einer bestimmten Aufgabe verwendet werden.
-- [] Ein Algorithmus ist ein Satz von Anweisungen, die mehr als einmal wiederholt werden müssen
-- [] Ein Algorithmus ist ein beliebiges Computerprogramm
-- [] Ein Algorithmus ist ein Befehl, der von Mr. Algo Rhythm erstellt wurde
+- [ ] Ein Algorithmus ist ein Satz von Anweisungen, die mehr als einmal wiederholt werden müssen
+- [ ] Ein Algorithmus ist ein beliebiges Computerprogramm
+- [ ] Ein Algorithmus ist ein Befehl, der von Mr. Algo Rhythm erstellt wurde
 
 ## ---Tags---
 
