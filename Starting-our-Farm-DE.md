@@ -13,10 +13,6 @@ Der Farmbot muss den Boden für die Bepflanzung vorbereiten. Benutze den Befehl 
 
 ## ---Files---
 
-```py title="student.py"
-$$$prepare_soil()$$$
-```
-
 ```py title="solution.py"
 prepare_soil()
 ```
@@ -34,12 +30,6 @@ prepare_soil()
 - Bereite den Boden vor, gehe vorwärts und bereite dann mehr Erde vor
 
 ## ---Files---
-
-```py title="student.py"
-$$$prepare_soil()$$$
-$$$move_forward()$$$
-$$$prepare_soil()$$$
-```
 
 ```py title="solution.py"
 prepare_soil()
@@ -85,11 +75,6 @@ Der Farmbot kann mit dem Befehl `plant()` Nutzpflanzen pflanzen
 - Fügen Sie dem Code die Pflanzenfunktion hinzu und drücken Sie Run. Kannst du herausfinden, wie das funktioniert?
 
 ## ---Files---
-
-```py title="student.py"
-prepare_soil()
-$$$plant("tomato")$$$
-```
 
 ```py title="solution.py"
 prepare_soil()
@@ -142,13 +127,6 @@ Im Folgenden sind `„Tomate“` und `„Aubergine“` Argumente, die der Funkti
 
 ## ---Files---
 
-```py title="student.py"
-plant($$$"aubergine"$$$)
-move_forward()
-plant($$$"tomato"$$$)
-return_home()
-```
-
 ```py title="solution.py"
 plant("aubergine")
 move_forward()
@@ -171,11 +149,6 @@ return_home()
 - Bereite den Boden vor und pflanze eine Tomate
 
 ## ---Files---
-
-```py title="student.py"
-$$$prepare_soil()$$$
-$$$plant("tomato")$$$
-```
 
 ```py title="solution.py"
 prepare_soil()

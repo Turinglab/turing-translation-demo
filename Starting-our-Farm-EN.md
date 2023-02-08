@@ -13,10 +13,6 @@ The Farmbot will need to prepare the soil for planting. Use the command `prepare
 
 ## ---Files---
 
-```py title="student.py"
-$$$prepare_soil()$$$
-```
-
 ```py title="solution.py"
 prepare_soil()
 ```
@@ -34,12 +30,6 @@ prepare_soil()
 - Prepare soil, move forward and then prepare more soil
 
 ## ---Files---
-
-```py title="student.py"
-$$$prepare_soil()$$$
-$$$move_forward()$$$
-$$$prepare_soil()$$$
-```
 
 ```py title="solution.py"
 prepare_soil()
@@ -85,11 +75,6 @@ The Farmbot can plant crops using the command `plant()`
 - Add the plant function to the code, and press run. Can you figure out how it works?
 
 ## ---Files---
-
-```py title="student.py"
-prepare_soil()
-$$$plant("tomato")$$$
-```
 
 ```py title="solution.py"
 prepare_soil()
@@ -142,13 +127,6 @@ Below, `“tomato”` and `“aubergine”` are arguments given to the function 
 
 ## ---Files---
 
-```py title="student.py"
-plant($$$"aubergine"$$$)
-move_forward()
-plant($$$"tomato"$$$)
-return_home()
-```
-
 ```py title="solution.py"
 plant("aubergine")
 move_forward()
@@ -171,11 +149,6 @@ return_home()
 - Prepare the soil and plant a tomato
 
 ## ---Files---
-
-```py title="student.py"
-$$$prepare_soil()$$$
-$$$plant("tomato")$$$
-```
 
 ```py title="solution.py"
 prepare_soil()
