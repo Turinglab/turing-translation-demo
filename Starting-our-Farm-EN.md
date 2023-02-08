@@ -7,17 +7,17 @@ description: Create simple algorithms using function calls requiring strings as 
 
 The Farmbot will need to prepare the soil for planting. Use the command `prepare_soil()`.
 
-## ---Tasks---
+## Tasks
 
 - Add the command `prepare_soil` into the editor and press run to see what happens.
 
-## ---Files---
+## Code
 
 ```py title="solution.py"
 prepare_soil()
 ```
 
-## ---Tags---
+## Concept Tags
 
 - Introduced: `prepare_soil()`, `return_home()`, `plant()`, What are functions, Calling Functions, Passing Arguments, Algorithm
 
@@ -25,11 +25,11 @@ prepare_soil()
 
 # Prepare the soil
 
-## ---Tasks---
+## Tasks
 
 - Prepare soil, move forward and then prepare more soil
 
-## ---Files---
+## Code
 
 ```py title="solution.py"
 prepare_soil()
@@ -37,7 +37,7 @@ move_forward()
 prepare_soil()
 ```
 
-## ---Tags---
+## Concept Tags
 
 - Use: `prepare_soil()`, `move_forward()`, `prepare_soil()`, `return_home()`, `plant()`
 
@@ -45,11 +45,11 @@ prepare_soil()
 
 # Ready a row
 
-## ---Tasks---
+## Tasks
 
 - Prepare three patches of soil in a row, then return home
 
-## ---Files---
+## Code
 
 ```py title="student.py"
 prepare_soil()
@@ -60,7 +60,7 @@ prepare_soil()
 return_home()
 ```
 
-## ---Tags---
+## Concept Tags
 
 - Use: `move_forward()`, `prepare_soil()`, return_home()
 
@@ -70,18 +70,18 @@ return_home()
 
 The Farmbot can plant crops using the command `plant()`
 
-## ---Tasks---
+## Tasks
 
 - Add the plant function to the code, and press run. Can you figure out how it works?
 
-## ---Files---
+## Code
 
 ```py title="solution.py"
 prepare_soil()
 plant("tomato")
 ```
 
-## ---Tags---
+## Concept Tags
 
 - (Introduced): plant()
 - (Observed): prepare_soil()
@@ -94,7 +94,7 @@ plant("tomato")
 **Function**: A Function is a command that performs a specific action when called.
 **Function Call**: A Function Call tells the computer to run a function, using open and closing brackets ( ) after the name of the function: `move_forward()`, prepare_soil() are both function calls.
 
-## ---Tags---
+## Concept Tags
 
 - (Introduced): What are functions, Calling Functions
 
@@ -107,7 +107,7 @@ plant("tomato")
 - [ ] `"tomato"`
 - [ ] `prepare_soil`
 
-## ---Tags---
+## Concept Tags
 
 - (Identify): Calling Functions, `prepare_soil()`, move_forward()
 - Understand: Calling Functions, What are functions, Algorithm
@@ -121,11 +121,11 @@ A function may need extra information when it is called, this can be provided by
 Below, `“tomato”` and `“aubergine”` are arguments given to the function `plant()`.
 **Argument**: An argument is a value that goes between the brackets after the function name. This may change what the function does.
 
-## ---Tasks---
+## Tasks
 
 - Add the arguments to the plant functions to plant an aubergine and a tomato.
 
-## ---Files---
+## Code
 
 ```py title="solution.py"
 plant("aubergine")
@@ -134,7 +134,7 @@ plant("tomato")
 return_home()
 ```
 
-## ---Tags---
+## Concept Tags
 
 - (Introduced): Passing Arguments
 - Use: plant()
@@ -144,18 +144,18 @@ return_home()
 
 # Prepare and plant
 
-## ---Tasks---
+## Tasks
 
 - Prepare the soil and plant a tomato
 
-## ---Files---
+## Code
 
 ```py title="solution.py"
 prepare_soil()
 plant("tomato")
 ```
 
-## ---Tags---
+## Concept Tags
 
 - Use: `plant()`, prepare_soil()
 
@@ -168,7 +168,7 @@ plant("tomato")
 - [ ] Functions are words that always have brackets after them
 - [ ] Functions are commands that have quotes around them and can be put between brackets
 
-## ---Tags---
+## Concept Tags
 
 - (Recall): What are functions, `move_forward()`, Algorithm
 - Understand: What are functions
@@ -182,7 +182,7 @@ plant("tomato")
 - [ ] Move_Forward()
 - [ ] move_forward
 
-## ---Tags---
+## Concept Tags
 
 - (Recall): move_forward()
 
@@ -190,12 +190,12 @@ plant("tomato")
 
 # A row of potatoes
 
-## ---Tasks---
+## Tasks
 
 - Plant three potatoes in a row. Remember to prepare the soil first.
 - Return to the home plate.
 
-## ---Files---
+## Code
 
 ```py title="student.py"
 prepare_soil()
@@ -209,7 +209,7 @@ plant("potato")
 return_home()
 ```
 
-## ---Tags---
+## Concept Tags
 
 - Use: `prepare_soil()`, `plant()`, `return_home()`, move_forward()
 
@@ -220,7 +220,7 @@ return_home()
 You have been writing in Python to program the Farmbot. In the last example, you created an **algorithm** to plant a row of potatoes.
 **Algorithm**: An algorithm is a set of commands used to perform a particular task.
 
-## ---Tags---
+## Concept Tags
 
 - (Introduced): Algorithm
 
@@ -233,7 +233,7 @@ You have been writing in Python to program the Farmbot. In the last example, you
 - [ ] An algorithm is any computer program
 - [ ] An algorithm is a command created by Mr. Algo Rhythm
 
-## ---Tags---
+## Concept Tags
 
 - (Recall): Algorithm
 - Understand: Algorithm
@@ -250,6 +250,6 @@ You have been writing in Python to program the Farmbot. In the last example, you
 **plant()**: is a function that takes a single argument such as “potato” and plants the specified crop
 **Sequential Programming**: Programming in sequence
 
-## ---Tags---
+## Concept Tags
 
 - (Remind): What are functions, Calling Functions, Passing Arguments, Algorithm, `prepare_soil()`, `move_forward()`, move_forward()
