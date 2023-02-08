@@ -88,7 +88,7 @@ plant("tomato")
 
 ---
 
-# Functions
+# Funktionen
 
 `prepare_soil`, `move_forward` und `plant` sind Beispiele für Funktionen.
 **Funktion**: Eine Funktion ist ein Befehl, der eine bestimmte Aktion ausführt, wenn er aufgerufen wird.
